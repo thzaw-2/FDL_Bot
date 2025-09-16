@@ -1,0 +1,5 @@
+aiogram==3.*
+pyrogram==2.*
+tgcrypto
+fastapi
+uvicorn
